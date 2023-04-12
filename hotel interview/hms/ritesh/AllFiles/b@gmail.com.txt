@@ -1,0 +1,6 @@
+User Name : bitti
+User Contact : 9098765432
+User Email-ID : b@gmail.com
+User Address : Thane
+register_date : 2023-04-10
+passwd : 124
